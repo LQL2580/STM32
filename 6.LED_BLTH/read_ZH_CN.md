@@ -1,2 +1,2 @@
-LED_BLUE
+LED_BLTH
 通过蓝牙模块对stm32f103c8t6板上的LED灯进行控制
